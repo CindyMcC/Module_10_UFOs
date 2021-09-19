@@ -4,7 +4,7 @@ UNC - Module 11
 
 # UFO REPORTS
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="static/images/banner.png" width="500" heigth="400"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="static/images/banner.png" width="100%" heigth="400"> 
 
 
 ## Overview
